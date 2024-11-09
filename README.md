@@ -2,6 +2,10 @@
 Welcome to the Fake Identity Generator project! This TypeScript tool helps you generate large-scale synthetic data for testing purposes. With it, you can create up to 100,000 user profiles, each containing personal, contact, socioeconomic, and social data. 📊
 
 
+## </>Codebase
+![Codebase](./snap.png)
+
+
 ## 🛠 Features
 ✨ **High Volume Data**: Generate up to 100,000 profiles
 <br>
