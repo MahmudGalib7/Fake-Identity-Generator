@@ -3,7 +3,7 @@ Welcome to the Fake Identity Generator project! This TypeScript tool helps you g
 
 
 ## </>Codebase
-![Codebase](./snap.png)
+![Codebase](./Snap.png)
 
 
 ## 🛠 Features
