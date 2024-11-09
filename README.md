@@ -22,13 +22,13 @@ Every profile includes:
 ## 📋 Data Structure
 Each profile includes:
 
-- **ID**: Unique identifier
-- **Personal** Details: Name, email, age, birth date
-- **Address**: Street, city, state, zip code, country
-- **Contact**: Phone number, occupation
-- **Financial**: Income, credit score, purchase history
-- **Social**: Marital status, education, social media links
-- **Additional**: Hobbies, interests, children status
+- **ID**: 🆔 Unique identifier
+- **Personal Details**: 👤 Name, 📧 Email, 🎂 Age, 📅 Birth Date
+- **Addres**s: 🏠 Street, 🌆 City, 🗺️ State, 🏷️ Zip Code, 🌍 Country
+- **Contact**: 📞 Phone Number, 💼 Occupation
+- **Financial**: 💵 Income, 📈 Credit Score, 🛍️ Purchase History
+- **Social**: 💍 Marital Status, 🎓 Education, 🌐 Social Media Links
+- **Additional**: 🎨 Hobbies, 🌟 Interests, 👶 Children Status
 
 ## 🚀 Getting Started
 
