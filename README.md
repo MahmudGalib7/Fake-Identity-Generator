@@ -3,16 +3,16 @@ Welcome to the Fake Identity Generator project! This TypeScript tool helps you g
 
 
 ## 🛠 Features
-✨ High Volume Data: Generate up to 100,000 profiles
+✨ **High Volume Data**: Generate up to 100,000 profiles
 <br>
-📇 Detailed Profiles: 
-   <br>
-   Every profile includes:
-     - 👤 Basic info (name, age, etc.)
-     - 📍 Contact (address, phone)
-     - 💵 Financial details (income, credit score)
-     - 🌐 Social (interests, social links)
+📇 **Detailed Profiles**
 
+Every profile includes:
+
+- 👤 Basic info (name, age, etc.)
+- 📍 Contact (address, phone)
+- 💵 Financial details (income, credit score)
+- 🌐 Social (interests, social links)
 
 
 ## 📋 Data Structure
