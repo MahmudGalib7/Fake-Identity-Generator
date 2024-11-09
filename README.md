@@ -32,11 +32,9 @@ Each profile includes:
 
 ## 🚀 Getting Started
 
-Clone this repository.
-<br>
-Install dependencies (requires Node.js and TypeScript).
-<br>
-**Run:**
+- Clone this repository.
+- Install dependencies (requires Node.js and TypeScript).
+- **Run:**
 
 ```bash
 ts-node index.ts
@@ -90,11 +88,9 @@ This graph shows how each profile’s data is organized by categories!
 
 ## 📅 Future Improvements
 
-📝 Additional fields
-<br>
-💡 More realistic data (e.g., address formats)
-<br>
-📊 Expanded purchaseHistory
+- 📝 Additional fields
+- 💡 More realistic data (e.g., address formats)
+- 📊 Expanded purchaseHistory
 
 ## 📜 License
 This project is licensed under the MIT License.
