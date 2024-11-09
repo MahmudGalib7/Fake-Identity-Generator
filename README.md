@@ -78,9 +78,9 @@ This graph shows how each profile’s data is organized by categories!
 
 ## ⚙️ Customization
 
-Change `NUM_RECORDS` to adjust profile count.
-Edit arrays like `firstNames`, `occupations` for custom values.
-Modify data fields and randomization for specific needs.
+- Change `NUM_RECORDS` to adjust profile count.
+- Edit arrays like `firstNames`, `occupations` for custom values.
+- Modify data fields and randomization for specific needs.
 
 ## 📅 Future Improvements
 
@@ -93,4 +93,5 @@ Modify data fields and randomization for specific needs.
 ## 📜 License
 This project is licensed under the MIT License.
 <br>
-Happy Coding! 🎉
+
+### Happy Coding! 🎉
