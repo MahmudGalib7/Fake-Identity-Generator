@@ -1,4 +1,12 @@
-# 🎩 Fake Identity Generator
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=5F9EA0&center=true&vCenter=true&width=600&lines=🎩+Fake+Identity+Generator;⚙️+Generate+100%2C000+Synthetic+Identities+In+Seconds;💻+Built+With+TypeScript">
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/MahmudGalib7/Fake-Identity-Generator?style=flat-square" />
+  <img src="https://img.shields.io/github/license/MahmudGalib7/Fake-Identity-Generator?style=flat-square" />
+</p>
+
 Welcome to the Fake Identity Generator project! This TypeScript tool helps you generate large-scale synthetic data for testing purposes. With it, you can create up to 100,000 user profiles, each containing personal, contact, socioeconomic, and social data. 📊
 
 
@@ -101,4 +109,6 @@ This graph shows how each profile’s data is organized by categories!
 This project is licensed under the MIT License.
 <br>
 
-### Happy Coding! 🎉
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🎉;Happy+Coding!+🚀;Star+the+repo+if+you+like+it!+⭐">
+</p>
