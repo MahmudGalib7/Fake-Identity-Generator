@@ -41,6 +41,11 @@ ts-node index.ts
 ```
 ✨ The generated dataset will be saved to `testData.json` in the project directory.
 
+> [!NOTE]
+> For a detailed explanation of how the Fake Identity Generator works, including its data structures and generation logic, please see our comprehensive tutorial: **[Read the Full Tutorial](./tutorial/tutorial.md)**
+
+---
+
 ## Sample Code Snippet
 
 ```typescript
