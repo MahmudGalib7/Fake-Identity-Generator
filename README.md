@@ -106,7 +106,9 @@ This graph shows how each profile’s data is organized by categories!
 - 📊 Expanded purchaseHistory
 
 ## 📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
+
 <br>
 
 <p align="center">
